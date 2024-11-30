@@ -1,4 +1,4 @@
-# Prodigy_info_tech_Internship_Task_01
+# Prodigy_info_tech_Internship
 
 # Task-01: House Price Prediction using Linear Regression
 
